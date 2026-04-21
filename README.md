@@ -1,4 +1,5 @@
 # Blink to Scroll
+https://github.com/Gautam-Kush/BLINK-TO-SCROLL/actions/workflows/python-app.yml/badge.svg
 
 A hands-free, real-time scrolling system that uses your webcam and eye blinks to scroll through content — no mouse, no touch, no special hardware required.
 
